@@ -103,7 +103,8 @@ accounts = Accounts(session)
 myaccounts = accounts.get_list()
 ```
 
-Link to reference [doc](html/phc/index.html)
+Link to reference <a href="html/phc/index.html" title="doc">doc</a>
+
 **[Back to top](#table-of-contents)**
 
 # Release Process
