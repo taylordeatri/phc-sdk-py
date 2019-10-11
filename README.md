@@ -68,6 +68,13 @@ make test
 make lint
 ```
 
+### Documentation
+
+To regenerate the documentation run:
+```bash
+pdoc --html phc
+```
+
 **[Back to top](#table-of-contents)**
 
 ## Installation
@@ -96,7 +103,7 @@ accounts = Accounts(session)
 myaccounts = accounts.get_list()
 ```
 
-
+Link to reference [doc](html/phc/index.html)
 **[Back to top](#table-of-contents)**
 
 # Release Process
